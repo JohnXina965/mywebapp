@@ -1,0 +1,8 @@
+C:\Users\X 3 9 0\Documents>cd it305
+C:\Users\X 3 9 0\Documents\it305>git clone https://github.com/JohnXina965/mywebapp.git
+C:\Users\X 3 9 0\Documents\it305>cd mywebapp
+C:\Users\X 3 9 0\Documents\it305\mywebapp>npx create-react-app mywebapp
+
+git status
+git commit -m "initial files"
+git pusha
